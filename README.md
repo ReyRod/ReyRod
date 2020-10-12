@@ -20,14 +20,14 @@ I'm a Full Stack Developer mainly focused on the React, React Native and NodeJs 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React Native" width="26px" src="https://e7.pngegg.com/pngimages/452/495/png-clipart-react-javascript-angularjs-ionic-github-text-logo-thumbnail.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Hasura" width="26px" src="https://docs.yugabyte.com/images/develop/graphql/hasura/hasura.pngexp" />
+<img align="left" alt="Hasura" width="26px" src="https://docs.yugabyte.com/images/develop/graphql/hasura/hasura.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/452/postgreesql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -50,7 +50,7 @@ I'm a Full Stack Developer mainly focused on the React, React Native and NodeJs 
 - [Video Calls in React Native backed by Twilio](https://www.vairix.com/tech-blog/video-calls-in-react-native-backed-by-twilio)
 - [Serverless GraphQL API with Hasura and AWS stack](https://medium.com/@reynaldojesus23/serverless-graphql-api-with-hasura-and-aws-stack-614d4392d8a)
 - [Development of a Rest API the serverless way](https://medium.com/@reynaldojesus23/development-of-a-rest-api-the-serverless-way-bbb0a02c44e1)
-- [https://www.vairix.com/tech-blog/best-way-to-debug-react-native-apps](https://www.vairix.com/tech-blog/best-way-to-debug-react-native-apps)
+- [Best way to debug React Native apps](https://www.vairix.com/tech-blog/best-way-to-debug-react-native-apps)
 <!-- BLOG-POST-LIST:END -->
 
 
