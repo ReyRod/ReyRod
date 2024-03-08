@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer mainly focused on the React, React Native and NodeJs stack, coupled with Serverless Framework to handle all infrastructure. I've collaborated for projects on a few of the top NY agencies on different areas from Health to Education. If there is something you need help with feel free to contact me.
 
-## I'm also Husband, Father, Developer, and Musician!!
+### I'm also Husband, Father, Developer, and Musician!!
 
 - :earth_americas: I was born in Venezuela and i live in Uruguay
 - :musical_note: I play drums and i'm learning bass
