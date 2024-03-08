@@ -1,4 +1,4 @@
-### Hi there, I'm Reynaldo - aka [Rey][linkedin] 👋
+### Hi there, I'm Reynaldo - aka Rey 👋
 
 I'm a Full Stack Developer mainly focused on the React, React Native and NodeJs stack, coupled with Serverless Framework to handle all infrastructure. I've collaborated for projects on a few of the top NY agencies on different areas from Health to Education. If there is something you need help with feel free to contact me.
 
