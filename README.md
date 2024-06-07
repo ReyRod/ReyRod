@@ -6,10 +6,11 @@ I'm a Full Stack Developer mainly focused on the React, React Native and NodeJs 
 
 - :earth_americas: I was born in Venezuela and i live in Uruguay
 - :musical_note: I play drums and i'm learning bass
-- :gun: I enjoy playing COD Warzone and Dota 2
+- :gun: I enjoy playing Helldivers 2 and Dota 2
 
 ### 📕 Latest Blog Posts
 
+- [What to Watch? Showcase for the Bun, Astro, React & Nano Stores Stack‍](https://www.vairix.com/tech-blog/web-development-stack-bun-astro-react-nano-stores)
 - [Automated API Testing with Postman](https://www.vairix.com/tech-blog/automated-api-testing-with-postman)
 - [Next.js Latest Features](https://www.vairix.com/tech-blog/next-js-latest-features)
 - [Artificial intelligence into a react application](https://www.vairix.com/tech-blog/artificial-intelligence-is)
